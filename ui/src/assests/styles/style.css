@@ -1,0 +1,18 @@
+.wodd {
+color: azure;
+text-align: center;
+margin-top: 20px;
+}
+.wodd1{
+    color: azure;
+    margin-left: 20px;
+}
+.wodd2 {
+    color: azure;
+    margin-left: 20px;
+    padding-left: 20px !important;
+ }
+
+ .ui.button {
+    margin-left: 38px;
+ }
